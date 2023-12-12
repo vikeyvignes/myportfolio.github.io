@@ -1406,6 +1406,16 @@ justify-content: center;
 align-items: center;
 flex-direction: column;
 }
+.aboutcontainer p{
+font-size: 15px;
+font-weight: 500;
+}
+.aboutcontainer .myname{
+font-size:18px;
+}
+.aboutcontainer .academy{
+font-size: 18px;
+}
 .aboutcontainer h3 {
 border: 5px solid #d7d7d7;
 background: rgba(255, 255, 255, 0);
