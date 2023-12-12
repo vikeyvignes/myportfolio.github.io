@@ -1364,7 +1364,8 @@ letter-spacing: 10.661px;
 margin-bottom: 30px;
 }
 .contact-col .seeking{
-font-size: 17px;
+font-size: 13px;
+font-weight: 600;
 }
 .contact-col{
 border: 5px solid #000;
